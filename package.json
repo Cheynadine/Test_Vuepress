@@ -23,6 +23,7 @@
     },
     "main": "index.js",
     "scripts": {
+      "install": "npm install vuepress",
       "dev": "npm run docs:dev",
       "docs:dev": "vuepress dev docs --no-cache",
       "docs:build": "npm run docs:clean && vuepress build docs",
