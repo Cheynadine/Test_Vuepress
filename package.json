@@ -1,0 +1,20 @@
+{
+  "name": "test_vuepress",
+  "version": "1.0.0",
+  "description": "---\r home: true\r title: Cloning a Repository from GitHub\r description: using Visual Studio Code\r actionText: Next (👉ﾟヮﾟ)👉\r actionLink: /How-To/\r footer: Open Source on [GitHub](https://github.com/sqrthree/vuepress-theme-api), Made by [@sqrthree](https://github.com/sqrthree), Power by [vuepress](https://github.com/vuejs/vuepress).\r ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cheynadine/Test_Vuepress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cheynadine/Test_Vuepress/issues"
+  },
+  "homepage": "https://github.com/Cheynadine/Test_Vuepress#readme"
+}
